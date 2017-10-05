@@ -1,13 +1,13 @@
 <p 
     <div align="center">
-    <a href="https://telegram.me/Lite_Team">
+    <a href="https://telegram.me/soros_robot">
         <img src="http://upir.ir/951/guest/Untitled-7.png" hspace="10" width="150">
     </a>
-    <a href="https://telegram.me/mohammadstar_98">
+    <a href="https://telegram.me/Amirhossein_Taypram">
         <img src="http://upir.ir/951/guest/Untitled-6.png" width="150">
     </a>
 </div>
-<a href="https://telegram.me/Lite_Team"><font size="100">Ultera Gp v.1</font></a>
+<a href="https://telegram.me/Amirhossein_Taypram"><font size="100">soros-robot v.1</font></a>
 <h3><p dir="rtl">سورس دو زبانه همراه با کلی امکانات فوق العاده :)
 <br>
 <h3 align="right"> <strong></strong>
@@ -30,8 +30,8 @@
 <h6 dir="rtl"></h6>
 <pre>
 <span>cd $HOME</span>
-<span>git clone https://github.com/liteTeam/UlteraGp</span>
-<span>cd UlteraGp</span>
+<span>git clone https://github.com/Soros-robot/soros-robot</span>
+<span>cd soros-robo</span>
 <span>chmod +x Ultera.sh</span>
 <span>./Ultera.sh install</span>
 <span>./Ultera.sh</span>
@@ -40,7 +40,7 @@
 <br></h4>
 <h6 dir="rtl"></h6>
 <pre>
-<span>cd $HOME && git clone https://github.com/liteTeam/UlteraGp && cd UlteraGp && chmod +x Ultera.sh && ./Ultera.sh install && ./Ultera.sh 
+<span>cd $HOME && git clone https://github.com/Soros-robot/soros-robot && cd soros-robot && chmod +x Ultera.sh && ./Ultera.sh install && ./Ultera.sh 
 </span>
 </pre>
 <hr>
@@ -58,13 +58,13 @@
 <pre>
 <span>killall screen</span>
 <span>killall .telegram-cli</span>
-<span>cd UlteraGp</span>
+<span>cd soros-robot</span>
 <span>screen ./Ultera.sh</span>
 </pre>
 <h5 dir="rtl">اتولانچ (بدون خاموشی)
 <h6 dir="rtl">ابتدا یک توکن از @botfather دریافت کنید سپس توکن رو به جای عبارت [token] در auto.sh قرار دهید و کد های زیر را در ترمینال وارد کنید
 <pre>
-cd UlteraGp
+cd soros-robot
 chmod +x ./auto.sh
 screen ./auto.sh
 </pre>
@@ -73,13 +73,13 @@ screen ./auto.sh
 
 اموزش های بیش تر در کانال
 
-# [اموزش ویدیوی نصب سورس و اتولانچ](https://telegram.me/Lite_Team)
+# [اموزش ویدیوی نصب سورس و اتولانچ](https://telegram.me/Soros_Robot)
 
 
 ###  Telegram channel:
 
-# [Lite Team](https://telegram.me/Lite_Team)
-# [Ultera Gap](https://telegram.me/UlteraGap)
+# [soros_robot](https://telegram.me/Soros_Robot)
+# [soros-robot](https://telegram.me/Soros_Robot)
 
 * * *
 》*Please send us your stars☆ at the top of this page*
